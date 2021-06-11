@@ -1,5 +1,5 @@
 # 2D-map-based-student-alumni-monitoring-solution
-Web based application using to monitor/track students on 2D map
+Web based application use to monitor/track students on 2D map
 
 Developed by: - Vikash Singh, VIT (vikash.singh2020@vitbhopal.ac.in)
 
